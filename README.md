@@ -1,87 +1,88 @@
-<p align="center">
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
   <a href="https://github.com/ds4sd/docling">
-    <img loading="lazy" alt="Docling" src="https://github.com/DS4SD/docling/raw/main/docs/assets/docling_processing.png" width="100%"/>
+    <img alt="文档" src="https://github.com/DS4SD/docling/raw/main/docs/assets/docling_processing.png" width="100%" style="max-width: 100%;" _mstalt="92937" _msthash="253">
   </a>
 </p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5144373" _msthash="254">文档</h1><a id="user-content-docling" class="anchor" aria-label="永久链接：Docling" href="#docling" _mstaria-label="331162" _msthash="255"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://arxiv.org/abs/2408.09869" rel="nofollow"><img src="https://camo.githubusercontent.com/2610bebade789d244a2ef0446592fc58fe1c4506570f064e65e1b2b77b1879cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61725869762d323430382e30393836392d6233316231622e737667" alt="arXiv" data-canonical-src="https://img.shields.io/badge/arXiv-2408.09869-b31b1b.svg" style="max-width: 100%;" _mstalt="61503" _msthash="256"></a>
+<a href="https://ds4sd.github.io/docling/" rel="nofollow"><img src="https://camo.githubusercontent.com/3801aa3df692a6e677d79aab6d8753c115904773be47cd47ad67c392f4515250/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d6c6976652d627269676874677265656e" alt="文档" data-canonical-src="https://img.shields.io/badge/docs-live-brightgreen" style="max-width: 100%;" _mstalt="44265" _msthash="257"></a>
+<a href="https://pypi.org/project/docling/" rel="nofollow"><img src="https://camo.githubusercontent.com/0798c9df01764984318db919ff970737823a3cab2fd3608b4cfde31afb5f18d2/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f646f636c696e67" alt="PyPI 版本" data-canonical-src="https://img.shields.io/pypi/v/docling" style="max-width: 100%;" _mstalt="179413" _msthash="258"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2439533e7c0f101ce3666c3b41f34ec30f9fba28d0a99b786205422896ad0573/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e3130253230253743253230332e3131253230253743253230332e31322d626c7565"><img src="https://camo.githubusercontent.com/2439533e7c0f101ce3666c3b41f34ec30f9fba28d0a99b786205422896ad0573/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e3130253230253743253230332e3131253230253743253230332e31322d626c7565" alt="蟒" data-canonical-src="https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue" style="max-width: 100%;" _mstalt="79989" _msthash="259"></a>
+<a href="https://python-poetry.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/e9de59b7d2a7896f05d977ca76c28c69c6ff163840e5526baeb18e56c532ad5f/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f707974686f6e2d706f657472792e6f72672f62616467652f76302e6a736f6e" alt="诗歌" data-canonical-src="https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json" style="max-width: 100%;" _mstalt="80899" _msthash="260"></a>
+<a href="https://github.com/psf/black"><img src="https://camo.githubusercontent.com/5bf9e9fa18966df7cb5fac7715bef6b72df15e01a6efa9d616c83f9fcb527fe2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652532307374796c652d626c61636b2d3030303030302e737667" alt="代码样式：黑色" data-canonical-src="https://img.shields.io/badge/code%20style-black-000000.svg" style="max-width: 100%;" _mstalt="274716" _msthash="261"></a>
+<a href="https://pycqa.github.io/isort/" rel="nofollow"><img src="https://camo.githubusercontent.com/4e71e9b7ea25fbc70f186444684f4bfd9def4c737dfc327796cc2c332cbf0b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f253230696d706f7274732d69736f72742d2532333136373462313f7374796c653d666c6174266c6162656c436f6c6f723d656638333336" alt="导入：isort" data-canonical-src="https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&amp;labelColor=ef8336" style="max-width: 100%;" _mstalt="234156" _msthash="262"></a>
+<a href="https://pydantic.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/1ec3b5f774c66556456b4b855a73c1706f5454fa0ac3d2e4bcdabda9153b6b45/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707964616e7469632f707964616e7469632f6d61696e2f646f63732f62616467652f76322e6a736f6e" alt="Pydantic v2 版本" data-canonical-src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pydantic/pydantic/main/docs/badge/v2.json" style="max-width: 100%;" _mstalt="147173" _msthash="263"></a>
+<a href="https://github.com/pre-commit/pre-commit"><img src="https://camo.githubusercontent.com/c8dfc1d0c35fe0cc438cf57a44b9d915e0baa2aef9da75d07ad3ee2cdb237214/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7072652d2d636f6d6d69742d656e61626c65642d627269676874677265656e3f6c6f676f3d7072652d636f6d6d6974266c6f676f436f6c6f723d7768697465" alt="预提交" data-canonical-src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&amp;logoColor=white" style="max-width: 100%;" _mstalt="154050" _msthash="264"></a>
+<a href="https://opensource.org/licenses/MIT" rel="nofollow"><img src="https://camo.githubusercontent.com/da848c100107c1ea42b6af14f02d9eb2d9e93d52976cdd71ca1767d17fcc9120/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f44533453442f646f636c696e67" alt="证书编号： MIT" data-canonical-src="https://img.shields.io/github/license/DS4SD/docling" style="max-width: 100%;" _mstalt="139009" _msthash="265"></a></p>
+<p dir="auto" _msttexthash="190713614" _msthash="266">Docling 可以轻松快速地解析文档并将其导出为所需的格式。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5209451" _msthash="267">特征</h2><a id="user-content-features" class="anchor" aria-label="永久链接：功能" href="#features" _mstaria-label="370552" _msthash="268"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="277089995" _msthash="269">🗂️ 读取流行的文档格式（PDF、DOCX、PPTX、图像、HTML、AsciiDoc、Markdown）并导出为 Markdown 和 JSON</li>
+<li _msttexthash="219281660" _msthash="270">📑 高级PDF文档理解，包括页面布局、阅读顺序和表格结构</li>
+<li _msttexthash="103188254" _msthash="271">🧩 统一、富有表现力的 <a href="https://ds4sd.github.io/docling/concepts/docling_document/" rel="nofollow" _istranslated="1">DoclingDocument</a> 表示格式</li>
+<li _msttexthash="154084775" _msthash="272">📝 元数据提取，包括标题、作者、参考文献和语言</li>
+<li _msttexthash="402462658" _msthash="273">🤖 无缝的LlamaIndex 🦙和LangChain 🦜🔗集成，适用于强大的RAG / QA应用程序</li>
+<li _msttexthash="35116926" _msthash="274">🔍 扫描 PDF 的 OCR 支持</li>
+<li _msttexthash="29464838" _msthash="275">💻 简单方便的 CLI</li>
+</ul>
+<p dir="auto" _msttexthash="154508315" _msthash="276">浏览<a href="https://ds4sd.github.io/docling/" rel="nofollow" _istranslated="1">文档</a>以发现大量示例并解锁 Docling 的全部功能！</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5773755" _msthash="277">安装</h2><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation" _mstaria-label="519259" _msthash="278"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="236773251" _msthash="279">要使用 Docling，只需从你的包管理器（例如 pip）安装即可：</font><code>docling</code></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install docling</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install docling" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto" _msttexthash="91674869" _msthash="280">适用于 macOS、Linux 和 Windows 环境。x86_64 和 arm64 架构。</p>
+<p dir="auto" _msttexthash="72838506" _msthash="281">文档中提供了<a href="https://ds4sd.github.io/docling/installation/" rel="nofollow" _istranslated="1">更详细的安装说明</a>。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4603768" _msthash="282">开始</h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接： 开始使用" href="#getting-started" _mstaria-label="601445" _msthash="283"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="98029568" _msthash="284">要转换单个文档，请使用 ，例如：</font><code>convert()</code></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">from</span> <span class="pl-s1">docling</span>.<span class="pl-s1">document_converter</span> <span class="pl-k">import</span> <span class="pl-v">DocumentConverter</span>
 
-# Docling
+<span class="pl-s1">source</span> <span class="pl-c1">=</span> <span class="pl-s">"https://arxiv.org/pdf/2408.09869"</span>  <span class="pl-c"># document per local path or URL</span>
+<span class="pl-s1">converter</span> <span class="pl-c1">=</span> <span class="pl-v">DocumentConverter</span>()
+<span class="pl-s1">result</span> <span class="pl-c1">=</span> <span class="pl-s1">converter</span>.<span class="pl-en">convert</span>(<span class="pl-s1">source</span>)
+<span class="pl-en">print</span>(<span class="pl-s1">result</span>.<span class="pl-s1">document</span>.<span class="pl-en">export_to_markdown</span>())  <span class="pl-c"># output: "## Docling Technical Report[...]"</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="from docling.document_converter import DocumentConverter
 
-[![arXiv](https://img.shields.io/badge/arXiv-2408.09869-b31b1b.svg)](https://arxiv.org/abs/2408.09869)
-[![Docs](https://img.shields.io/badge/docs-live-brightgreen)](https://ds4sd.github.io/docling/)
-[![PyPI version](https://img.shields.io/pypi/v/docling)](https://pypi.org/project/docling/)
-![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)
-[![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)
-[![Pydantic v2](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pydantic/pydantic/main/docs/badge/v2.json)](https://pydantic.dev)
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-[![License MIT](https://img.shields.io/github/license/DS4SD/docling)](https://opensource.org/licenses/MIT)
-
-Docling parses documents and exports them to the desired format with ease and speed.
-
-
-## Features
-
-* 🗂️ Reads popular document formats (PDF, DOCX, PPTX, Images, HTML, AsciiDoc, Markdown) and exports to Markdown and JSON
-* 📑 Advanced PDF document understanding including page layout, reading order & table structures
-* 🧩 Unified, expressive [DoclingDocument](https://ds4sd.github.io/docling/concepts/docling_document/) representation format
-* 📝 Metadata extraction, including title, authors, references & language
-* 🤖 Seamless LlamaIndex 🦙 & LangChain 🦜🔗 integration for powerful RAG / QA applications
-* 🔍 OCR support for scanned PDFs
-* 💻 Simple and convenient CLI
-
-Explore the [documentation](https://ds4sd.github.io/docling/) to discover plenty examples and unlock the full power of Docling!
-
-
-## Installation
-
-To use Docling, simply install `docling` from your package manager, e.g. pip:
-```bash
-pip install docling
-```
-
-Works on macOS, Linux and Windows environments. Both x86_64 and arm64 architectures.
-
-More [detailed installation instructions](https://ds4sd.github.io/docling/installation/) are available in the docs.
-
-## Getting started
-
-To convert individual documents, use `convert()`, for example:
-
-```python
-from docling.document_converter import DocumentConverter
-
-source = "https://arxiv.org/pdf/2408.09869"  # document per local path or URL
+source = &quot;https://arxiv.org/pdf/2408.09869&quot;  # document per local path or URL
 converter = DocumentConverter()
 result = converter.convert(source)
-print(result.document.export_to_markdown())  # output: "## Docling Technical Report[...]"
-```
-
-
-Check out [Getting started](https://ds4sd.github.io/docling/).
-You will find lots of tuning options to leverage all the advanced capabilities.
-
-
-## Get help and support
-
-Please feel free to connect with us using the [discussion section](https://github.com/DS4SD/docling/discussions).
-
-
-## Technical report
-
-For more details on Docling's inner workings, check out the [Docling Technical Report](https://arxiv.org/abs/2408.09869).
-
-## Contributing
-
-Please read [Contributing to Docling](https://github.com/DS4SD/docling/blob/main/CONTRIBUTING.md) for details.
-
-
-## References
-
-If you use Docling in your projects, please consider citing the following:
-
-```bib
-@techreport{Docling,
+print(result.document.export_to_markdown())  # output: &quot;## Docling Technical Report[...]&quot;" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto" _msttexthash="170660139" _msthash="285">查看<a href="https://ds4sd.github.io/docling/" rel="nofollow" _istranslated="1">入门</a>。
+您将找到许多调整选项来利用所有高级功能。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="22291542" _msthash="286">获取帮助和支持</h2><a id="user-content-get-help-and-support" class="anchor" aria-label="永久链接：获取帮助和支持" href="#get-help-and-support" _mstaria-label="744263" _msthash="287"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="73946548" _msthash="288">请随时使用<a href="https://github.com/DS4SD/docling/discussions" _istranslated="1">讨论部分</a>与我们联系。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="10801557" _msthash="289">技术报告</h2><a id="user-content-technical-report" class="anchor" aria-label="永久链接： 技术报告" href="#technical-report" _mstaria-label="643227" _msthash="290"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="226371158" _msthash="291">有关 Docling 内部工作原理的更多详细信息，请查看 <a href="https://arxiv.org/abs/2408.09869" rel="nofollow" _istranslated="1">Docling 技术报告</a>。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="292">贡献</h2><a id="user-content-contributing" class="anchor" aria-label="永久链接： 贡献" href="#contributing" _mstaria-label="521066" _msthash="293"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="73599136" _msthash="294">请阅读 <a href="https://github.com/DS4SD/docling/blob/main/CONTRIBUTING.md" _istranslated="1">为 Docling 做贡献</a> 了解详情。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5334199" _msthash="295">引用</h2><a id="user-content-references" class="anchor" aria-label="永久链接：参考资料" href="#references" _mstaria-label="435396" _msthash="296"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="168116117" _msthash="297">如果您在项目中使用 Docling，请考虑引用以下内容：</p>
+<div class="highlight highlight-text-bibtex notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">@techreport</span>{<span class="pl-en">Docling</span>,
+  <span class="pl-s">author</span> = <span class="pl-s"><span class="pl-pds">{</span>Deep Search Team<span class="pl-pds">}</span></span>,
+  <span class="pl-s">month</span> = <span class="pl-s"><span class="pl-pds">{</span>8<span class="pl-pds">}</span></span>,
+  <span class="pl-s">title</span> = <span class="pl-s"><span class="pl-pds">{</span>Docling Technical Report<span class="pl-pds">}</span></span>,
+  <span class="pl-s">url</span> = <span class="pl-s"><span class="pl-pds">{</span>https://arxiv.org/abs/2408.09869<span class="pl-pds">}</span></span>,
+  <span class="pl-s">eprint</span> = <span class="pl-s"><span class="pl-pds">{</span>2408.09869<span class="pl-pds">}</span></span>,
+  <span class="pl-s">doi</span> = <span class="pl-s"><span class="pl-pds">{</span>10.48550/arXiv.2408.09869<span class="pl-pds">}</span></span>,
+  <span class="pl-s">version</span> = <span class="pl-s"><span class="pl-pds">{</span>1.0.0<span class="pl-pds">}</span></span>,
+  <span class="pl-s">year</span> = <span class="pl-s"><span class="pl-pds">{</span>2024<span class="pl-pds">}</span></span>
+}</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="@techreport{Docling,
   author = {Deep Search Team},
   month = {8},
   title = {Docling Technical Report},
@@ -90,10 +91,16 @@ If you use Docling in your projects, please consider citing the following:
   doi = {10.48550/arXiv.2408.09869},
   version = {1.0.0},
   year = {2024}
-}
-```
-
-## License
-
-The Docling codebase is under MIT license. 
-For individual model usage, please refer to the model licenses found in the original packages.
+}" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9675445" _msthash="298">许可证</h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license" _mstaria-label="331903" _msthash="299"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="396853561" _msthash="300">Docling 代码库使用 MIT 许可证。
+有关单个模型的使用，请参阅原始包装中的模型许可证。</p>
+</article></div>
